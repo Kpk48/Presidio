@@ -12,11 +12,11 @@ The project can be run anywhere and will work due to the use of online db when t
 
 System design for both high as well as low level is done and will be referenced
 
-1. High level system design
-2. Low level system design
+1. High level system design  -- https://github.com/Kpk48/Presidio/blob/main/High_level_system_diagram.pdf
+2. Low level system design   -- https://github.com/Kpk48/Presidio/blob/main/Low_level_system_diagram.pdf
 
 The sql was done after learning from udemy
 
-SQl course certificate
+SQl course certificate       -- https://github.com/Kpk48/Presidio/blob/main/Udemy_course_completion.pdf
 
 Thank you!
